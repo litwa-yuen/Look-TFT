@@ -6,6 +6,8 @@ Look TFT is an iOS application which can show summoner recent match history of t
 - Search Summoner Name 
 - show current rank for Teamfight Tactics
 - Show 20 recent games played
+- Support Region: Brazil, EU Nordic & East, EU West, Latin America North, Latin America South, North America, Oceania, Russia, Turkey, Japan, Korea
+ 
 
 
 #ScreenShots:
